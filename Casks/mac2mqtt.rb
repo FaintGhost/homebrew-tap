@@ -13,7 +13,7 @@ cask "mac2mqtt" do
   end
 
   auto_updates true
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Mac2MQTT.app"
 
