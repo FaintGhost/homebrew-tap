@@ -1,6 +1,6 @@
 cask "mac2mqtt" do
-  version "0.4.6"
-  sha256 "dc7fa3897edb3294496c011c76493098c3e4f4896ad77ea726dfd1293158a7a4"
+  version "0.4.7"
+  sha256 "7be094b07f603590076d9aacf42b61203942a193b59278779c8babec2e28132c"
 
   url "https://github.com/FaintGhost/mac2mqtt/releases/download/v#{version}/Mac2MQTT-#{version}-universal.dmg"
   name "Mac2MQTT"
